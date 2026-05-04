@@ -8,7 +8,7 @@ This app connects to financial accounts through Plaid to import transaction data
 
 See the privacy policy:
 
-https://mchong6.github.io/expense_tracker/privacy.html
+https://mchong6.github.io/expense-tracker/privacy.html
 
 ## Security note
 
